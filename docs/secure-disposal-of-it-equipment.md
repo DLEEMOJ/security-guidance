@@ -4,7 +4,7 @@ The Ministry of Justice \(MoJ\) and its Executive Agencies and Arms Length Bodie
 
 However, there are also other physical and virtual resources across the MoJ estate which might have been procured and managed locally. It is crucial that they are disposed of in a secure manner, to prevent data being leaked.
 
-**Note:** When disposing of **Secret** or **Top Secret** equipment, materials, or resources, you **shall** contact security: [security@justice.gov.uk](mailto:security@justice.gov.uk)
+**Note:** When disposing of **Secret** or **Top Secret** equipment, materials, or resources, you **shall** contact: Helpdesk on 0800 917 5148.
 
 <a name="[secure-disposal-of-it-physical-and-on-premise](secure-disposal-of-it-physical-and-on-premise.md)"></a>
 
@@ -28,7 +28,8 @@ However, there are also other physical and virtual resources across the MoJ esta
 
 ## Contact details
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+For any further questions, contact:Helpdesk on 0800 917 5148.
+
 
 ## Feedback
 
