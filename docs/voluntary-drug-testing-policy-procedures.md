@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Cluster 2 Security Unit \(C2SU\) forms part of the Transforming Government Security programme which aims to standardise and strengthen operational security across Government.
+The Protective Security Centre \(PSC\) Operations forms part of the Transforming Government Security programme which aims to standardise and strengthen operational security across Government.
 
 Cluster 2 is one of four cross-Government Security Clusters which delivers operational security services to the following Government organisations:
 
@@ -27,11 +27,11 @@ A security clearance requires ongoing review. A voluntary drugs test is one of a
 
 Voluntary drug testing is used when illegal drug use is admitted to during the vetting process.
 
-C2SU decide on a case-by-case basis whether drug testing is necessary. C2SU also identify any potential security risks to Government assets in consultation with the MoJ Senior Security Advisor. In any event, the individual must commit to not using any type of illegal drugs during any period of employment with the MoJ.
+PSC Operations decide on a case-by-case basis whether drug testing is necessary. PSC Operations also identify any potential security risks to Government assets in consultation with the MoJ Senior Security Advisor. In any event, the individual must commit to not using any type of illegal drugs during any period of employment with the MoJ.
 
 ### Drug testing arrangements
 
-C2SU set a timeframe in which an individual will be periodically tested for a panel of illegal drugs by an accredited and approved drug testing provider.
+PSC Operations set a timeframe in which an individual will be periodically tested for a panel of illegal drugs by an accredited and approved drug testing provider.
 
 ### Disclosure of personal information
 
@@ -50,25 +50,25 @@ This information is used only for the purposes of facilitating the drug testing 
 
 The primary method for the sample collection is a hair sample. However, in some circumstances other alternative methods, such as a urine sample, may be used for drug testing analysis. At each drug test an alternative hair or urine sample is taken to allow for independent re-testing, if required \(for example if a test result is inconclusive or further evidential testing is required\).
 
-The individual is expected to co-operate fully with any request to provide a sample collection. If the initial request cannot be met due to availability issues, such as pre-arranged annual leave commitments, the individual must arrange as soon as possible with the C2SU's drug testing provider, and no later than five working days after the unavailable period, to provide a sample collection for drug testing analysis.
+The individual is expected to co-operate fully with any request to provide a sample collection. If the initial request cannot be met due to availability issues, such as pre-arranged annual leave commitments, the individual must arrange as soon as possible with the PSC Operations' drug testing provider, and no later than five working days after the unavailable period, to provide a sample collection for drug testing analysis.
 
-If, due to a change of circumstances beyond the individual's control, they are unable to attend the scheduled appointment, they must give advanced noticed \(minimum of 24 hours\) and reason\(s\) for non-attendance to C2SU and the drug testing provider. The appointment must be rescheduled within seven days of the original appointment date.
+If, due to a change of circumstances beyond the individual's control, they are unable to attend the scheduled appointment, they must give advanced noticed \(minimum of 24 hours\) and reason\(s\) for non-attendance to PSC Operations and the drug testing provider. The appointment must be rescheduled within seven days of the original appointment date.
 
-Failure to either provide advanced notice to C2SU and the drug testing provider, or reschedule the original appointment date within the set timeframe, is interpreted as the individual's unilateral withdrawal from the vetting aftercare arrangements, and could lead to withdrawal of the security clearance.
+Failure to either provide advanced notice to PSC Operations and the drug testing provider, or reschedule the original appointment date within the set timeframe, is interpreted as the individual's unilateral withdrawal from the vetting aftercare arrangements, and could lead to withdrawal of the security clearance.
 
-Failure to co-operate with any part of the drugs testing process, or if C2SU has reason to believe that deliberate attempts by the individual are being made to delay, frustrate, or circumvent the process, is interpreted as the individual's unilateral withdrawal from the national security vetting aftercare arrangements and could lead to the withdrawal of the security clearance.
+Failure to co-operate with any part of the drugs testing process, or if PSC Operations has reason to believe that deliberate attempts by the individual are being made to delay, frustrate, or circumvent the process, is interpreted as the individual's unilateral withdrawal from the national security vetting aftercare arrangements and could lead to the withdrawal of the security clearance.
 
 ### Raising concerns
 
-Any concerns about the sample collection process, or about the approved drug testing provider, must be raised with C2SU at once and in any event prior to receiving confirmation of drug testing results. C2SU investigates any concerns raised with the approved drug testing provider.
+Any concerns about the sample collection process, or about the approved drug testing provider, must be raised with PSC Operations at once and in any event prior to receiving confirmation of drug testing results. PSC Operations investigates any concerns raised with the approved drug testing provider.
 
 ### Confirmation of test results
 
-Confirmation of test results is provided in full to the individual, and shared in their entirety with the Cluster 2 Aftercare Security Unit.
+Confirmation of test results is provided in full to the individual, and shared in their entirety with the PSC Operations.
 
-Any positive trace of illegal drugs is grounds for assessing the individual's suitability to hold security clearance. The level of security clearance withdrawn is decided by C2SU on a case-by-case basis.
+Any positive trace of illegal drugs is grounds for assessing the individual's suitability to hold security clearance. The level of security clearance withdrawn is decided by PSC Operations on a case-by-case basis.
 
-Confirmation of test results, and any subsequent decision making made by C2SU, is held on the individual's vetting file and stored in accordance with C2SU retention periods.
+Confirmation of test results, and any subsequent decision making made by PSC Operations, is held on the individual's vetting file and stored in accordance with PSC Operations retention periods.
 
 The test results are not be used for any purpose other than deciding on suitability to hold national security vetting. Exceptions to this include legal obligations \(for example court order or police warrant\), or the transfer of records to another Vetting Authority as part of clearance confirmation procedures, or where there is an overriding corporate duty of care to the vetting subject.
 
@@ -76,13 +76,13 @@ The test results are not be used for any purpose other than deciding on suitabil
 
 Following the Cluster 2 department's Drugs and Alcohol Substance Policy, or equivalent, individuals misusing substances are encouraged to discuss this with their line manager and urged to seek expert help and advice at the earliest opportunity.
 
-Additionally, holders of national security vetting clearance at all levels are expected to show the highest level of honesty, integrity, transparency, openness, and frankness in sharing personal information \(including lifestyle habits, and changes to them\) of security relevance, or when engaging with C2SU. Dishonesty and intent to mislead or conceal is viewed seriously and influences whether the clearance is kept.
+Additionally, holders of national security vetting clearance at all levels are expected to show the highest level of honesty, integrity, transparency, openness, and frankness in sharing personal information \(including lifestyle habits, and changes to them\) of security relevance, or when engaging with PSC Operations. Dishonesty and intent to mislead or conceal is viewed seriously and influences whether the clearance is kept.
 
-**All information shared with C2SU is treated in confidence. Support is provided where possible.**
+**All information shared with PSC Operations is treated in confidence. Support is provided where possible.**
 
-Self-reporting of any drug misuse is not necessarily considered as automatic grounds for the withdrawal of security clearance. C2SU assess everyone on a case-by-case basis. However, failure to self-report drug misuse which later comes to light via drug testing, or any other means, is likely to lead to security clearance being withdrawn.
+Self-reporting of any drug misuse is not necessarily considered as automatic grounds for the withdrawal of security clearance. PSC Operations assess everyone on a case-by-case basis. However, failure to self-report drug misuse which later comes to light via drug testing, or any other means, is likely to lead to security clearance being withdrawn.
 
-The following contributing factors are considered by C2SU. This is not an exhaustive list:
+The following contributing factors are considered by PSC Operations. This is not an exhaustive list:
 
 -   The type and quantity of illegal drug usage.
 -   Previous history of the misuse of illegal drugs.
@@ -90,7 +90,7 @@ The following contributing factors are considered by C2SU. This is not an exhaus
 -   How the illegal substances were acquired.
 -   The environment in which the illegal drug use took place.
 
-C2SU assess an individual's suitability to continue to hold security clearance by deciding the level of risk they have of being susceptible to pressure or improper influence, or indicate unreliability, because of their actions. The principles around national security vetting focus specifically on the threats posed to UK national security \(for example terrorism, espionage, or other actions that would threaten the UK\). The threats and any subsequent risks to the business might differ, so they are assessed and managed by locally produced business-related policy and procedures.
+PSC Operations assess an individual's suitability to continue to hold security clearance by deciding the level of risk they have of being susceptible to pressure or improper influence, or indicate unreliability, because of their actions. The principles around national security vetting focus specifically on the threats posed to UK national security \(for example terrorism, espionage, or other actions that would threaten the UK\). The threats and any subsequent risks to the business might differ, so they are assessed and managed by locally produced business-related policy and procedures.
 
 ### Appealing decisions of withdrawing security clearance
 
@@ -105,11 +105,11 @@ There is no Right of Appeal for individuals on recruitment to the Civil Service 
 
 ### Appealing a positive drug test
 
-Any disputed drug test **shall** be appealed to C2SU, in writing, within five days of receiving confirmation of a test result.
+Any disputed drug test **shall** be appealed to PSC Operations, in writing, within five days of receiving confirmation of a test result.
 
 An appeal **shall** detail the reason or reasons why the positive result is being disputed. This information **shall** be shared with the approved drug testing provider and the positive test results **shall** be subject to further scientific expert analysis to decide the probability of the positive test result being incorrect. The results of any secondary testing **shall** be treated as final.
 
 ### Review of drug testing arrangements
 
-The requirement for drug testing individual cases **shall** be subject to ongoing review, on a case-by-case basis, by C2SU. The individual **shall** be formally notified by C2SU if this aftercare arrangement is withdrawn.
+The requirement for drug testing individual cases **shall** be subject to ongoing review, on a case-by-case basis, by PSC Operations. The individual **shall** be formally notified by PSC Operations if this aftercare arrangement is withdrawn.
 
