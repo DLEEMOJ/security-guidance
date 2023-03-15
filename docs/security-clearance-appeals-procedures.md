@@ -1,10 +1,10 @@
 # Security clearance appeals procedures
 
-These procedures provide an overview of the requirements for appealing a decision by the Cluster 2 Security Unit Head of Personnel Security, or their representatives in the Decision Making or Personnel Risk Management Teams, to refuse or withdraw national security clearance for Civil Service and Government employees and contractors working on Cluster 2 business.
+These procedures provide an overview of the requirements for appealing a decision by the PSC Operations Head of Personnel Security, or their representatives in the Decision Making or Personnel Risk Management Teams, to refuse or withdraw national security clearance for Civil Service and Government employees and contractors working on Cluster 2 business.
 
 There is an internal appeal to the Ministry of Justice \(MoJ\) Permanent Secretary, and if the decision to refuse or withdraw clearance is upheld, a subsequent external appeal to the Security Vetting Appeals Panel \(SVAP\).
 
-More detailed guidance on the processes and timescales for internal and external appeals can be found at [Annex A: Cluster 2 Security Unit Security Clearance Appeals Procedures](#annex-a-cluster-2-security-unit-security-clearance-appeals-procedures).
+More detailed guidance on the processes and timescales for internal and external appeals can be found at [Annex A: PSC Operations Security Clearance Appeals Procedures](#annex-a-PSC-operations-security-clearance-appeals-procedures).
 
 In this document the term **shall** is used to indicate an absolute requirement.
 
@@ -12,7 +12,7 @@ If you have any queries on the content of this document contact [MoJ Group Secur
 
 ## Scope and aim
 
-These procedures apply to permanent members of staff and contractors' employees employed on the work of MoJ, and those organisations for which the Cluster 2 Security Unit holds the responsibility for vetting, including non-departmental public bodies \(NDPBs\).
+These procedures apply to permanent members of staff and contractors' employees employed on the work of MoJ, and those organisations for which the PSC Operations holds the responsibility for vetting, including non-departmental public bodies \(NDPBs\).
 
 It also applies to:
 
@@ -59,7 +59,7 @@ For general advice or guidance regarding the National Security Vetting process, 
 
 To declare relevant changes in your personal circumstances, contact the Cluster 2 Personnel Risk Management Team by emailing Vetting team via [Security team](mailto:security@justice.gov.uk).
 
-## Annex A: Cluster 2 Security Unit Security Clearance Appeals Procedures
+## Annex A: PSC Operations Security Clearance Appeals Procedures
 
 ### Internal appeals
 
@@ -76,7 +76,7 @@ Appeals **shall** be made by the appellant and sent to the Permanent Secretary u
 
 In lodging an appeal, the appellant **should** provide as full a rationale as they able, based on the reasons provided in the decision letter, with supporting facts where applicable and including any further information or documentation that **might** assist their appeal. An appeal submission **might** include information that was not previously available when the original clearance decision was made, where this information is materially relevant to the case.
 
-On receipt of an appeal, the Permanent Secretary **can** delegate the handling of it to an appeal officer, usually the Head of Vetting Appeals in the Cluster 2 Security Unit. The appeal officer is independent: they **shall not** have had any prior involvement or interest in the original decision-making process. The Permanent Secretary reserves the right to hear an appeal internally at their home department in any circumstances if they consider it appropriate.
+On receipt of an appeal, the Permanent Secretary **can** delegate the handling of it to an appeal officer, usually the Head of Vetting Appeals in the PSC Operations. The appeal officer is independent: they **shall not** have had any prior involvement or interest in the original decision-making process. The Permanent Secretary reserves the right to hear an appeal internally at their home department in any circumstances if they consider it appropriate.
 
 The Senior Security Advisor \(SSA\) of the MoJ acts as liaison between the Appeals Team and their department throughout the appeal process. The appeal officer conducts the appeal on behalf of the Permanent Secretary and provides a report and recommendation to the Permanent Secretary. In all cases, the Permanent Secretary makes the final decision.
 
@@ -129,7 +129,7 @@ The SVAP makes recommendations to the Head of Organisation in the light of its f
 -   That security clearance should be granted or restored.
 
 
-The SVAP **can** also comment on the vetting procedures and the adequacy of the internal appeals process and make recommendations. The Permanent Secretary takes the final decision on whether to accept any recommendations to grant or restore a security clearance. Depending on the SVAP's findings, which are not binding, the Permanent Secretary **might** choose to consult with Cluster 2 Security Unit regarding next steps.
+The SVAP **can** also comment on the vetting procedures and the adequacy of the internal appeals process and make recommendations. The Permanent Secretary takes the final decision on whether to accept any recommendations to grant or restore a security clearance. Depending on the SVAP's findings, which are not binding, the Permanent Secretary **might** choose to consult with PSC Operations regarding next steps.
 
 ## Annex B: Internal appeal form following refusal or withdrawal of security clearance
 
