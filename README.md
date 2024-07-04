@@ -6,7 +6,7 @@ This repository contains best-practice guidance and - where appropriate - policy
 
 The information ranges from formal content, such as 'you must'-style documents, through to more informal help and suggestions, such as checklists.
 
-The content is used to help build and operate products and services at the MoJ.
+the content is used to help build and operate products and services at the MoJ.
 
 The work is performed in the open by intent, and for compliance with principle.
 Re-use of these materials outside of MoJ purposes must be in accordance with the published license.
@@ -15,7 +15,7 @@ Re-use of these materials outside of MoJ purposes must be in accordance with the
 
 ## Repository details
 
-This repo is inspired by, and borrows from, [GDS's technical guidance][gds-way] site and [MoJ's technical guidance][technical-guidance].
+this repo is inspired by, and borrows from, [GDS's technical guidance][gds-way] site and [MoJ's technical guidance][technical-guidance].
 
 Content in the `main` branch is created in [DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) format, and stored in the `dita` directory. When a build is required, the `builder.ant` script in the `buildUtils` directory is run. By default, it creates Markdown, PDF, and EPUB format output. The result output documents are put into a *clean* `docs` directory.
 
